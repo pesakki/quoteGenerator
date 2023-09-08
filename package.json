@@ -2,7 +2,7 @@
   "name": "team-success-quotes",
   "version": "1.0.0",
   "description": "Quotes about teamwork and respect",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha",
     "test-lint": "eslint . --ext .js, ./data --ext .json --color"
